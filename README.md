@@ -6,7 +6,7 @@ Task 1 (HTML, CSS, JS poate):
 Trebuie completat HTML si CSS, astfel incat pagina web sa arate ca in imaginea: "final.png". In aceasta imagine sunt marcate cu rosu div-urile care trebuie completate.
 
 In fisierul "index.html", respectiv "css/style.css" sunt comentarii in zonele in care trebuie completat codul:
-- <!-- Aici completeaza HTML -->
+- \<!-- Aici completeaza HTML -->
 - /* AIci completeaza CSS */
 
 De asemenea, trebuie facute efecte de hover cu tranzitii/animatii pentru ca sectiunile, sa aiba efectele din videoclipul urmator: https://www.useloom.com/share/dcbc51df2bf34e3e8782c4691dd42dca
