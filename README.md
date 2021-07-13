@@ -1,5 +1,4 @@
-# RoWeb-Practice-Test-2021
-RoWeb Practice Test 2021
+# Roweb admission test for PHP Practical Stage 2021
 
 Task 1 (HTML, CSS, JS poate):
 
